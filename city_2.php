@@ -1,4 +1,4 @@
 <?php
-$city2 = "Benglore";
-echo $city2;
+$cityName2 = "Pune";
+print_r($cityName1);
 ?>
